@@ -1,5 +1,9 @@
 # Effective Scala
 
+This Coursera version is currently a stub, differing from the Twitter version by only this paragraph.
+For now, I am using the issue list for collecting Coursera best practice which could be incorporated
+here. Note this fork, and the issue list is public, but I am including Coursera internal links into the issue list.
+
 This is the repository for the [Effective Scala](https://twitter.github.com/effectivescala/) document. 
 
 It is "typeset" in [markdown](https://daringfireball.net/projects/markdown/) using [PEG markdown](https://github.com/jgm/peg-markdown). It also requires the [GNU Troff suite (groff)](https://www.gnu.org/software/groff/).
